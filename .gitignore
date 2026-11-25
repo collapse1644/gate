@@ -1,0 +1,34 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/.mypy_cache/
+*.py[cod]
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/tsconfig.tsbuildinfo
+
+# Local runtime data, source PDFs, extracted assets, backups, and models
+backend/data/*
+!backend/data/.gitkeep
+!backend/data/official/
+!backend/data/official/.gitkeep
+backend/docs/
+
+# Secrets and environment overrides
+*.env
+*.env.*
+!.env.example
+backend/.secret.key
+
+# Logs and temporary/editor files
+logs/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db

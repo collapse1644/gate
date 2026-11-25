@@ -1,0 +1,300 @@
+QID=421 QNO=1
+Q.1
+If ‘→' denotes increasing order of intensity, then the meaning of the words
+[dry → arid → parched] is analogous to [diet → fast → ________ ].
+Which one of the given options is appropriate to fill the blank?
+OPTIONS: [{'key': 'A', 'text': 'starve'}, {'key': 'B', 'text': 'reject'}, {'key': 'C', 'text': 'feast'}, {'key': 'D', 'text': 'deny'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------
+QID=422 QNO=2
+Q.2
+If two distinct non-zero real variables 𝑥 and 𝑦 are such that (𝑥+ 𝑦) is proportional
+𝑥
+to (𝑥−𝑦) then the value of
+𝑦
+OPTIONS: [{'key': 'A', 'text': 'depends on 𝑥𝑦'}, {'key': 'B', 'text': 'depends only on 𝑥 and not on 𝑦'}, {'key': 'C', 'text': 'depends only on 𝑦 and not on 𝑥'}, {'key': 'D', 'text': 'is a constant'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------
+QID=423 QNO=3
+Q.3
+Consider the following sample of numbers:
+9, 18, 11, 14, 15, 17, 10, 69, 11, 13
+The median of the sample is
+OPTIONS: [{'key': 'A', 'text': '13.5'}, {'key': 'D', 'text': '18.7'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------
+QID=424 QNO=4
+Q.4
+The number of coins of ₹1, ₹5, and ₹10 denominations that a person has are in the
+ratio 5:3:13. Of the total amount, the percentage of money in ₹5 coins is
+OPTIONS: [{'key': 'A', 'text': '21%'}, {'key': 'B', 'text': '7%'}, {'key': 'C', 'text': '10%'}, {'key': 'D', 'text': '30%'}]
+CURRENT: subject=1 topic=2 subtopic=5 conf=0.4958
+--------------------------------------------------------------------------------
+QID=425 QNO=5
+Q.5
+For positive non-zero real variables 𝑝 and 𝑞, if
+log (𝑝2 + 𝑞2) = log 𝑝+ log 𝑞+ 2 log 3 ,
+𝑝4+𝑞4
+then, the value of
+𝑝2𝑞2 is
+OPTIONS: [{'key': 'D', 'text': 'Q.6 - Q.10 Carry TWO marks Each'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------
+QID=426 QNO=6
+Q.6
+In the given text, the blanks are numbered (i)−(iv). Select the best match for all the
+blanks.
+Steve was advised to keep his head (i) before heading (ii) to bat;
+for, while he had a head (iii) batting, he could only do so with a cool head
+s (iv) his shoulders.
+OPTIONS: [{'key': 'A', 'text': '(i) down\n(ii) down\n(iii) on\n(iv) for'}, {'key': 'B', 'text': '(i) on\n(ii) down\n(iii) for\n(iv) on'}, {'key': 'C', 'text': '(i) down\n(ii) out\n(iii) for\n(iv) on'}, {'key': 'D', 'text': '(i) on\n(ii) out\n(iii) on\n(iv) for'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------
+QID=427 QNO=7
+Q.7
+A rectangular paper sheet of dimensions 54 cm × 4 cm is taken. The two longer
+edges of the sheet are joined together to create a cylindrical tube. A cube whose
+surface area is equal to the area of the sheet is also taken.
+Then, the ratio of the volume of the cylindrical tube to the volume of the cube is
+OPTIONS: [{'key': 'A', 'text': '1/π'}, {'key': 'B', 'text': '2/π'}, {'key': 'C', 'text': '3/π'}, {'key': 'D', 'text': '4/π'}]
+CURRENT: subject=1 topic=2 subtopic=6 conf=0.5202
+--------------------------------------------------------------------------------
+QID=428 QNO=8
+Q.8
+The pie chart presents the percentage contribution of different macronutrients to a
+typical 2,000 kcal diet of a person.
+Macronutrient energy contribution
+Trans
+fat
+5%
+Saturated fat
+20%
+Carbohydrates
+35%
+Unsaturated fat
+20%
+Proteins
+20%
+The typical energy density (kcal/g) of these macronutrients is given in the table.
+Macronutrient
+Energy density (kcal/g)
+Carbohydrates
+Proteins
+Unsaturated fat
+Saturated fat
+Trans fat
+The total fat (all three types), in grams, this person consumes is
+OPTIONS: [{'key': 'A', 'text': '44.4'}, {'key': 'B', 'text': '77.8'}, {'key': 'D', 'text': '3,600'}]
+CURRENT: subject=1 topic=2 subtopic=4 conf=0.5124
+--------------------------------------------------------------------------------
+QID=429 QNO=9
+Q.9
+A rectangular paper of 20 cm × 8 cm is folded 3 times. Each fold is made along the
+line of symmetry, which is perpendicular to its long edge. The perimeter of the final
+folded sheet (in cm) is
+OPTIONS: [{'key': 'D', 'text': 'The least number of squares to be added in the figure to make AB a line of'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------
+QID=430 QNO=10
+Q.10
+symmetry is
+OPTIONS: [{'key': 'D', 'text': 'Q.11 - Q.35 Carry ONE mark Each'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------
+QID=431 QNO=11
+Q.11
+Let 𝑓: ℝ → ℝ be a function such that 𝑓(𝑥) = max{𝑥, 𝑥3}, 𝑥∈ℝ , where ℝ is the
+set
+of
+all
+real
+numbers.
+The
+set
+of
+all
+points
+where
+𝑓(𝑥)
+is
+NOT differentiable is
+OPTIONS: [{'key': 'A', 'text': '{−1, 1, 2}'}, {'key': 'B', 'text': '{−2, −1, 1}'}, {'key': 'C', 'text': '{0, 1}'}, {'key': 'D', 'text': '{−1, 0, 1}'}]
+CURRENT: subject=2 topic=5 subtopic=13 conf=0.4006
+--------------------------------------------------------------------------------
+QID=432 QNO=12
+Q.12
+The product of all eigenvalues of the matrix [
+] is
+OPTIONS: [{'key': 'A', 'text': '−1'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------
+QID=433 QNO=13
+Q.13
+Consider a system that uses 5 bits for representing signed integers in 2's complement
+format. In this system, two integers 𝐴 and 𝐵 are represented as 𝐴=01010 and
+𝐵=11010. Which one of the following operations will result in either an arithmetic
+overflow or an arithmetic underflow?
+OPTIONS: [{'key': 'A', 'text': '𝐴+ 𝐵'}, {'key': 'B', 'text': '𝐴−𝐵'}, {'key': 'C', 'text': '𝐵−𝐴'}, {'key': 'D', 'text': '2 ∗𝐵'}]
+CURRENT: subject=3 topic=12 subtopic=36 conf=0.3794
+--------------------------------------------------------------------------------
+QID=434 QNO=14
+Q.14
+Consider a permutation sampled uniformly at random from the set of all
+permutations of {1, 2, 3, ⋯, 𝑛} for some 𝑛 ≥4. Let 𝑋 be the event that 1 occurs
+before 2 in the permutation, and 𝑌 the event that 3 occurs before 4. Which one of
+the following statements is TRUE?
+OPTIONS: [{'key': 'A', 'text': 'The events 𝑋 and 𝑌 are mutually exclusive'}, {'key': 'B', 'text': 'The events 𝑋 and 𝑌 are independent'}, {'key': 'C', 'text': 'Either event 𝑋 or 𝑌 must occur'}, {'key': 'D', 'text': 'Event 𝑋 is more likely than event 𝑌'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------
+QID=435 QNO=15
+Q.15
+Which one of the following statements is FALSE?
+In the cycle stealing mode of DMA, one word of data is transferred between an I/O
+OPTIONS: [{'key': 'A', 'text': 'device and main memory in a stolen cycle\nFor bulk data transfer, the burst mode of DMA has a higher throughput than the'}, {'key': 'B', 'text': 'cycle stealing mode\nProgrammed I/O mechanism has a better CPU utilization than the interrupt driven'}, {'key': 'C', 'text': 'I/O mechanism\nThe CPU can start executing an interrupt service routine faster with vectored'}, {'key': 'D', 'text': 'interrupts than with non-vectored interrupts'}]
+CURRENT: subject=4 topic=17 subtopic=44 conf=0.8798
+--------------------------------------------------------------------------------
+QID=436 QNO=16
+Q.16
+A user starts browsing a webpage hosted at a remote server. The browser opens a
+single TCP connection to fetch the entire webpage from the server. The webpage
+consists of a top-level index page with multiple embedded image objects. Assume
+that all caches (e.g., DNS cache, browser cache) are all initially empty. The
+following packets leave the user's computer in some order.
+(i)
+HTTP GET request for the index page
+(ii)
+DNS request to resolve the web server's name to its IP address
+(iii)
+HTTP GET request for an image object
+(iv)
+TCP SYN to open a connection to the web server
+Which one of the following is the CORRECT chronological order (earliest in time
+to latest) of the packets leaving the computer ?
+OPTIONS: [{'key': 'A', 'text': '(iv), (ii), (iii), (i)'}, {'key': 'B', 'text': '(ii), (iv), (iii), (i)'}, {'key': 'C', 'text': '(ii), (iv), (i), (iii)'}, {'key': 'D', 'text': '(iv), (ii), (i), (iii)'}]
+CURRENT: subject=11 topic=69 subtopic=133 conf=0.4629
+--------------------------------------------------------------------------------
+QID=437 QNO=17
+Q.17
+Given an integer array of size N, we want to check if the array is sorted (in either
+ascending or descending order). An algorithm solves this problem by making a
+single pass through the array and comparing each element of the array only with its
+adjacent elements. The worst-case time complexity of this algorithm is
+OPTIONS: [{'key': 'A', 'text': 'both Ο(𝑁) and Ω(𝑁)'}, {'key': 'B', 'text': 'Ο(𝑁) but not Ω(𝑁)'}, {'key': 'C', 'text': 'Ω(𝑁) but not Ο(𝑁)'}, {'key': 'D', 'text': 'neither Ο(𝑁) nor Ω(𝑁)'}]
+CURRENT: subject=6 topic=30 subtopic=63 conf=0.621
+--------------------------------------------------------------------------------
+QID=438 QNO=18
+Q.18
+Consider the following C program:
+#include <stdio.h>
+int main(){
+int a = 6;
+int b = 0;
+while(a < 10) {
+a = a / 12 + 1;
+a += b;}
+printf("%d", a);
+return 0;}
+Which one of the following statements is CORRECT?
+The program prints 9 as output
+OPTIONS: [{'key': 'A', 'text': 'The program prints 10 as output'}, {'key': 'C', 'text': 'The program gets stuck in an infinite loop\nThe program prints 6 as output'}]
+CURRENT: subject=5 topic=19 subtopic=47 conf=0.6043
+--------------------------------------------------------------------------------
+QID=439 QNO=19
+Q.19
+Consider the following C program:
+#include <stdio.h>
+void fX(){
+void fX();
+char a;
+int main(){
+if((a=getchar()) != '\n')
+fX();
+fX();
+return 0;}
+if(a != '\n')
+putchar(a);}
+Assume that the input to the program from the command line is 1234 followed by
+a newline character. Which one of the following statements is CORRECT?
+OPTIONS: [{'key': 'A', 'text': 'The program will not terminate'}, {'key': 'B', 'text': 'The program will terminate with no output\nThe program will terminate with 4321 as output'}, {'key': 'C', 'text': 'The program will terminate with 1234 as output'}]
+CURRENT: subject=5 topic=19 subtopic=47 conf=0.5159
+--------------------------------------------------------------------------------
+QID=440 QNO=20
+Q.20
+Let S be the specification: "Instructors teach courses. Students register for courses.
+Courses are allocated classrooms. Instructors guide students." Which one of the
+following ER diagrams CORRECTLY represents S?
+OPTIONS: [{'key': 'A', 'text': '(i)'}, {'key': 'B', 'text': '(ii)'}, {'key': 'C', 'text': '(iii)'}, {'key': 'D', 'text': '(iv)'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------
+QID=441 QNO=21
+Q.21
+In a B+ tree, the requirement of at least half-full (50%) node occupancy is relaxed
+for which one of the following cases?
+OPTIONS: [{'key': 'A', 'text': 'Only the root node'}, {'key': 'B', 'text': 'All leaf nodes'}, {'key': 'C', 'text': 'All internal nodes'}, {'key': 'D', 'text': 'Only the leftmost leaf node'}]
+CURRENT: subject=10 topic=60 subtopic=111 conf=0.7257
+--------------------------------------------------------------------------------
+QID=442 QNO=22
+Q.22
+Which of the following statements about a relation R in first normal form (1NF)
+is/are TRUE ?
+OPTIONS: [{'key': 'A', 'text': 'R can have a multi-attribute key'}, {'key': 'B', 'text': 'R cannot have a foreign key'}, {'key': 'C', 'text': 'R cannot have a composite attribute'}, {'key': 'D', 'text': 'R cannot have more than one candidate key'}]
+CURRENT: subject=10 topic=59 subtopic=109 conf=0.4217
+--------------------------------------------------------------------------------
+QID=443 QNO=23
+Q.23
+Let 𝐿1, 𝐿2 be two regular languages and 𝐿3 a language which is not regular.
+Which of the following statements is/are always TRUE?
+OPTIONS: [{'key': 'A', 'text': '𝐿1 = 𝐿2 if and only if 𝐿1 ∩ 𝐿2̅̅̅ = 𝜙'}, {'key': 'B', 'text': '𝐿1 ∪𝐿3 is not regular'}, {'key': 'C', 'text': '𝐿3̅̅̅ is not regular'}, {'key': 'D', 'text': '𝐿1̅̅̅ ∪𝐿2̅̅̅ is regular'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------
+QID=444 QNO=24
+Q.24
+Which of the following statements about threads is/are TRUE?
+OPTIONS: [{'key': 'A', 'text': 'Threads can only be implemented in kernel space'}, {'key': 'B', 'text': 'Each thread has its own file descriptor table for open files'}, {'key': 'C', 'text': 'All the threads belonging to a process share a common stack'}, {'key': 'D', 'text': 'Threads belonging to a process are by default not protected from each other'}]
+CURRENT: subject=9 topic=49 subtopic=90 conf=0.5903
+--------------------------------------------------------------------------------
+QID=445 QNO=25
+Q.25
+Which of the following process state transitions is/are NOT possible?
+OPTIONS: [{'key': 'A', 'text': 'Running to Ready'}, {'key': 'B', 'text': 'Waiting to Running'}, {'key': 'C', 'text': 'Ready to Waiting'}, {'key': 'D', 'text': 'Running to Terminated'}]
+CURRENT: subject=9 topic=48 subtopic=89 conf=0.4044
+--------------------------------------------------------------------------------
+QID=446 QNO=26
+Q.26
+Which of the following is/are Bottom-Up Parser(s)?
+OPTIONS: [{'key': 'A', 'text': 'Shift-reduce Parser'}, {'key': 'B', 'text': 'Predictive Parser'}, {'key': 'C', 'text': 'LL(1) Parser'}, {'key': 'D', 'text': 'LR Parser'}]
+CURRENT: subject=8 topic=42 subtopic=82 conf=0.3663
+--------------------------------------------------------------------------------
+QID=447 QNO=27
+Q.27
+Let 𝐴 and 𝐵 be two events in a probability space with 𝑃(𝐴) = 0.3, 𝑃(𝐵) = 0.5,
+and 𝑃(𝐴∩𝐵) = 0.1. Which of the following statements is/are TRUE?
+OPTIONS: [{'key': 'A', 'text': 'The two events 𝐴 and 𝐵 are independent'}, {'key': 'B', 'text': '𝑃(𝐴∪𝐵) = 0.7\n𝑃(𝐴∩𝐵𝑐) = 0.2, where 𝐵𝑐 is the complement of the event 𝐵'}, {'key': 'C', 'text': '𝑃(𝐴𝑐∩𝐵𝑐) = 0.4, where 𝐴𝑐 and 𝐵𝑐 are the complements of the events 𝐴 and 𝐵,'}, {'key': 'D', 'text': 'respectively'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------
+QID=448 QNO=28
+Q.28
+Consider the circuit shown below where the gates may have propagation delays.
+Assume that all signal transitions occur instantaneously and that wires have no
+delays. Which of the following statements about the circuit is/are CORRECT?
+OPTIONS: [{'key': 'A', 'text': 'With no propagation delays, the output 𝒀 is always logic Zero'}, {'key': 'B', 'text': 'With no propagation delays, the output 𝒀 is always logic One\nWith propagation delays, the output 𝒀 can have a transient logic One after 𝑿'}, {'key': 'C', 'text': 'transitions from logic Zero to logic One\nWith propagation delays, the output 𝒀 can have a transient logic Zero after 𝑿'}, {'key': 'D', 'text': 'transitions from logic One to logic Zero'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------
+QID=449 QNO=29
+Q.29
+TCP client P successfully establishes a connection to TCP server Q. Let 𝑁𝑃 denote
+the sequence number in the SYN sent from P to Q. Let 𝑁𝑄 denote the
+acknowledgement number in the SYN ACK from Q to P. Which of the following
+statements is/are CORRECT?
+OPTIONS: [{'key': 'A', 'text': 'The sequence number 𝑁𝑃 is chosen randomly by P'}, {'key': 'B', 'text': 'The sequence number 𝑁𝑃 is always 0 for a new connection\nThe acknowledgement number 𝑁𝑄 is equal to 𝑁𝑃'}, {'key': 'C', 'text': 'The acknowledgement number 𝑁𝑄 is equal to 𝑁𝑃+ 1'}]
+CURRENT: subject=11 topic=67 subtopic=127 conf=0.6936
+--------------------------------------------------------------------------------
+QID=450 QNO=30
+Q.30
+Consider a 5-stage pipelined processor with Instruction Fetch (IF), Instruction
+Decode (ID), Execute (EX), Memory Access (MEM), and Register Writeback (WB)
+stages. Which of the following statements about forwarding is/are CORRECT?
+In a pipelined execution, forwarding means the result from a source stage of an
+OPTIONS: [{'key': 'A', 'text': 'earlier instruction is passed on to the destination stage of a later instruction\nIn forwarding, data from the output of the MEM stage can be passed on to the'}, {'key': 'B', 'text': 'input of the EX stage of the next instruction'}, {'key': 'C', 'text': 'Forwarding cannot prevent all pipeline stalls\nForwarding does not require any extra hardware to retrieve the data from the'}, {'key': 'D', 'text': 'pipeline stages'}]
+CURRENT: subject=None topic=None subtopic=None conf=0.0
+--------------------------------------------------------------------------------

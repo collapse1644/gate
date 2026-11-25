@@ -1,0 +1,1907 @@
+{
+  "count": 50,
+  "ga_count": 10,
+  "cs_count": 40,
+  "items": [
+    {
+      "question_id": 421,
+      "year": 2024,
+      "question_no": 1,
+      "question_text": "Q.1\nIf ‘→' denotes increasing order of intensity, then the meaning of the words\n[dry → arid → parched] is analogous to [diet → fast → ________ ].\nWhich one of the given options is appropriate to fill the blank?",
+      "options": [
+        {
+          "key": "A",
+          "text": "starve"
+        },
+        {
+          "key": "B",
+          "text": "reject"
+        },
+        {
+          "key": "C",
+          "text": "feast"
+        },
+        {
+          "key": "D",
+          "text": "deny"
+        }
+      ],
+      "predicted": {
+        "subject": "General Aptitude",
+        "subject_id": 1,
+        "topic": "Verbal Aptitude",
+        "topic_id": 1,
+        "subtopic": "Grammar and Usage",
+        "subtopic_id": 1,
+        "confidence": 0.2473,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 422,
+      "year": 2024,
+      "question_no": 2,
+      "question_text": "Q.2\nIf two distinct non-zero real variables 𝑥 and 𝑦 are such that (𝑥+ 𝑦) is proportional\n𝑥\nto (𝑥−𝑦) then the value of\n𝑦",
+      "options": [
+        {
+          "key": "A",
+          "text": "depends on 𝑥𝑦"
+        },
+        {
+          "key": "B",
+          "text": "depends only on 𝑥 and not on 𝑦"
+        },
+        {
+          "key": "C",
+          "text": "depends only on 𝑦 and not on 𝑥"
+        },
+        {
+          "key": "D",
+          "text": "is a constant"
+        }
+      ],
+      "predicted": {
+        "subject": null,
+        "subject_id": null,
+        "topic": null,
+        "topic_id": null,
+        "subtopic": null,
+        "subtopic_id": null,
+        "confidence": 0.0,
+        "review_status": "out_of_syllabus"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 423,
+      "year": 2024,
+      "question_no": 3,
+      "question_text": "Q.3\nConsider the following sample of numbers:\n9, 18, 11, 14, 15, 17, 10, 69, 11, 13\nThe median of the sample is",
+      "options": [
+        {
+          "key": "A",
+          "text": "13.5"
+        },
+        {
+          "key": "D",
+          "text": "18.7"
+        }
+      ],
+      "predicted": {
+        "subject": "Engineering Mathematics",
+        "subject_id": 2,
+        "topic": "Probability and Statistics",
+        "topic_id": 8,
+        "subtopic": "Descriptive Statistics",
+        "subtopic_id": 27,
+        "confidence": 0.2318,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 424,
+      "year": 2024,
+      "question_no": 4,
+      "question_text": "Q.4\nThe number of coins of ₹1, ₹5, and ₹10 denominations that a person has are in the\nratio 5:3:13. Of the total amount, the percentage of money in ₹5 coins is",
+      "options": [
+        {
+          "key": "A",
+          "text": "21%"
+        },
+        {
+          "key": "B",
+          "text": "7%"
+        },
+        {
+          "key": "C",
+          "text": "10%"
+        },
+        {
+          "key": "D",
+          "text": "30%"
+        }
+      ],
+      "predicted": {
+        "subject": "General Aptitude",
+        "subject_id": 1,
+        "topic": "Quantitative Aptitude",
+        "topic_id": 2,
+        "subtopic": "Numerical Computation",
+        "subtopic_id": 5,
+        "confidence": 0.3149,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 425,
+      "year": 2024,
+      "question_no": 5,
+      "question_text": "Q.5\nFor positive non-zero real variables 𝑝 and 𝑞, if\nlog (𝑝2 + 𝑞2) = log 𝑝+ log 𝑞+ 2 log 3 ,\n𝑝4+𝑞4\nthen, the value of\n𝑝2𝑞2 is",
+      "options": [
+        {
+          "key": "D",
+          "text": "Q.6 - Q.10 Carry TWO marks Each"
+        }
+      ],
+      "predicted": {
+        "subject": "Databases",
+        "subject_id": 10,
+        "topic": "Transactions and Concurrency Control",
+        "topic_id": 61,
+        "subtopic": "Recovery",
+        "subtopic_id": 115,
+        "confidence": 0.3723,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 426,
+      "year": 2024,
+      "question_no": 6,
+      "question_text": "Q.6\nIn the given text, the blanks are numbered (i)−(iv). Select the best match for all the\nblanks.\nSteve was advised to keep his head (i) before heading (ii) to bat;\nfor, while he had a head (iii) batting, he could only do so with a cool head\ns (iv) his shoulders.",
+      "options": [
+        {
+          "key": "A",
+          "text": "(i) down\n(ii) down\n(iii) on\n(iv) for"
+        },
+        {
+          "key": "B",
+          "text": "(i) on\n(ii) down\n(iii) for\n(iv) on"
+        },
+        {
+          "key": "C",
+          "text": "(i) down\n(ii) out\n(iii) for\n(iv) on"
+        },
+        {
+          "key": "D",
+          "text": "(i) on\n(ii) out\n(iii) on\n(iv) for"
+        }
+      ],
+      "predicted": {
+        "subject": null,
+        "subject_id": null,
+        "topic": null,
+        "topic_id": null,
+        "subtopic": null,
+        "subtopic_id": null,
+        "confidence": 0.0,
+        "review_status": "out_of_syllabus"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 427,
+      "year": 2024,
+      "question_no": 7,
+      "question_text": "Q.7\nA rectangular paper sheet of dimensions 54 cm × 4 cm is taken. The two longer\nedges of the sheet are joined together to create a cylindrical tube. A cube whose\nsurface area is equal to the area of the sheet is also taken.\nThen, the ratio of the volume of the cylindrical tube to the volume of the cube is",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/π"
+        },
+        {
+          "key": "B",
+          "text": "2/π"
+        },
+        {
+          "key": "C",
+          "text": "3/π"
+        },
+        {
+          "key": "D",
+          "text": "4/π"
+        }
+      ],
+      "predicted": {
+        "subject": "General Aptitude",
+        "subject_id": 1,
+        "topic": "Quantitative Aptitude",
+        "topic_id": 2,
+        "subtopic": "Mensuration and Geometry",
+        "subtopic_id": 6,
+        "confidence": 0.5217,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 428,
+      "year": 2024,
+      "question_no": 8,
+      "question_text": "Q.8\nThe pie chart presents the percentage contribution of different macronutrients to a\ntypical 2,000 kcal diet of a person.\nMacronutrient energy contribution\nTrans\nfat\n5%\nSaturated fat\n20%\nCarbohydrates\n35%\nUnsaturated fat\n20%\nProteins\n20%\nThe typical energy density (kcal/g) of these macronutrients is given in the table.\nMacronutrient\nEnergy density (kcal/g)\nCarbohydrates\nProteins\nUnsaturated fat\nSaturated fat\nTrans fat\nThe total fat (all three types), in grams, this person consumes is",
+      "options": [
+        {
+          "key": "A",
+          "text": "44.4"
+        },
+        {
+          "key": "B",
+          "text": "77.8"
+        },
+        {
+          "key": "D",
+          "text": "3,600"
+        }
+      ],
+      "predicted": {
+        "subject": "General Aptitude",
+        "subject_id": 1,
+        "topic": "Quantitative Aptitude",
+        "topic_id": 2,
+        "subtopic": "Data Interpretation",
+        "subtopic_id": 4,
+        "confidence": 0.6005,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 429,
+      "year": 2024,
+      "question_no": 9,
+      "question_text": "Q.9\nA rectangular paper of 20 cm × 8 cm is folded 3 times. Each fold is made along the\nline of symmetry, which is perpendicular to its long edge. The perimeter of the final\nfolded sheet (in cm) is",
+      "options": [
+        {
+          "key": "D",
+          "text": "The least number of squares to be added in the figure to make AB a line of"
+        }
+      ],
+      "predicted": {
+        "subject": null,
+        "subject_id": null,
+        "topic": null,
+        "topic_id": null,
+        "subtopic": null,
+        "subtopic_id": null,
+        "confidence": 0.0,
+        "review_status": "out_of_syllabus"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 430,
+      "year": 2024,
+      "question_no": 10,
+      "question_text": "Q.10\nsymmetry is",
+      "options": [
+        {
+          "key": "D",
+          "text": "Q.11 - Q.35 Carry ONE mark Each"
+        }
+      ],
+      "predicted": {
+        "subject": null,
+        "subject_id": null,
+        "topic": null,
+        "topic_id": null,
+        "subtopic": null,
+        "subtopic_id": null,
+        "confidence": 0.0,
+        "review_status": "out_of_syllabus"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 434,
+      "year": 2024,
+      "question_no": 14,
+      "question_text": "Q.14\nConsider a permutation sampled uniformly at random from the set of all\npermutations of {1, 2, 3, ⋯, 𝑛} for some 𝑛 ≥4. Let 𝑋 be the event that 1 occurs\nbefore 2 in the permutation, and 𝑌 the event that 3 occurs before 4. Which one of\nthe following statements is TRUE?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The events 𝑋 and 𝑌 are mutually exclusive"
+        },
+        {
+          "key": "B",
+          "text": "The events 𝑋 and 𝑌 are independent"
+        },
+        {
+          "key": "C",
+          "text": "Either event 𝑋 or 𝑌 must occur"
+        },
+        {
+          "key": "D",
+          "text": "Event 𝑋 is more likely than event 𝑌"
+        }
+      ],
+      "predicted": {
+        "subject": "General Aptitude",
+        "subject_id": 1,
+        "topic": "Quantitative Aptitude",
+        "topic_id": 2,
+        "subtopic": "Numerical Computation",
+        "subtopic_id": 5,
+        "confidence": 0.2254,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 431,
+      "year": 2024,
+      "question_no": 11,
+      "question_text": "Q.11\nLet 𝑓: ℝ → ℝ be a function such that 𝑓(𝑥) = max{𝑥, 𝑥3}, 𝑥∈ℝ , where ℝ is the\nset\nof\nall\nreal\nnumbers.\nThe\nset\nof\nall\npoints\nwhere\n𝑓(𝑥)\nis\nNOT differentiable is",
+      "options": [
+        {
+          "key": "A",
+          "text": "{−1, 1, 2}"
+        },
+        {
+          "key": "B",
+          "text": "{−2, −1, 1}"
+        },
+        {
+          "key": "C",
+          "text": "{0, 1}"
+        },
+        {
+          "key": "D",
+          "text": "{−1, 0, 1}"
+        }
+      ],
+      "predicted": {
+        "subject": "Engineering Mathematics",
+        "subject_id": 2,
+        "topic": "Discrete Mathematics",
+        "topic_id": 5,
+        "subtopic": "Sets, Relations and Functions",
+        "subtopic_id": 13,
+        "confidence": 0.4006,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 433,
+      "year": 2024,
+      "question_no": 13,
+      "question_text": "Q.13\nConsider a system that uses 5 bits for representing signed integers in 2's complement\nformat. In this system, two integers 𝐴 and 𝐵 are represented as 𝐴=01010 and\n𝐵=11010. Which one of the following operations will result in either an arithmetic\noverflow or an arithmetic underflow?",
+      "options": [
+        {
+          "key": "A",
+          "text": "𝐴+ 𝐵"
+        },
+        {
+          "key": "B",
+          "text": "𝐴−𝐵"
+        },
+        {
+          "key": "C",
+          "text": "𝐵−𝐴"
+        },
+        {
+          "key": "D",
+          "text": "2 ∗𝐵"
+        }
+      ],
+      "predicted": {
+        "subject": "Digital Logic",
+        "subject_id": 3,
+        "topic": "Number Representation and Arithmetic",
+        "topic_id": 12,
+        "subtopic": "Fixed-Point Representation",
+        "subtopic_id": 36,
+        "confidence": 0.3794,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 435,
+      "year": 2024,
+      "question_no": 15,
+      "question_text": "Q.15\nWhich one of the following statements is FALSE?\nIn the cycle stealing mode of DMA, one word of data is transferred between an I/O",
+      "options": [
+        {
+          "key": "A",
+          "text": "device and main memory in a stolen cycle\nFor bulk data transfer, the burst mode of DMA has a higher throughput than the"
+        },
+        {
+          "key": "B",
+          "text": "cycle stealing mode\nProgrammed I/O mechanism has a better CPU utilization than the interrupt driven"
+        },
+        {
+          "key": "C",
+          "text": "I/O mechanism\nThe CPU can start executing an interrupt service routine faster with vectored"
+        },
+        {
+          "key": "D",
+          "text": "interrupts than with non-vectored interrupts"
+        }
+      ],
+      "predicted": {
+        "subject": "Computer Organization and Architecture",
+        "subject_id": 4,
+        "topic": "I/O Interface",
+        "topic_id": 17,
+        "subtopic": "Interrupts and DMA",
+        "subtopic_id": 44,
+        "confidence": 0.8798,
+        "review_status": "auto_accepted"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 438,
+      "year": 2024,
+      "question_no": 18,
+      "question_text": "Q.18\nConsider the following C program:\n#include <stdio.h>\nint main(){\nint a = 6;\nint b = 0;\nwhile(a < 10) {\na = a / 12 + 1;\na += b;}\nprintf(\"%d\", a);\nreturn 0;}\nWhich one of the following statements is CORRECT?\nThe program prints 9 as output",
+      "options": [
+        {
+          "key": "A",
+          "text": "The program prints 10 as output"
+        },
+        {
+          "key": "C",
+          "text": "The program gets stuck in an infinite loop\nThe program prints 6 as output"
+        }
+      ],
+      "predicted": {
+        "subject": "Programming and Data Structures",
+        "subject_id": 5,
+        "topic": "Programming in C",
+        "topic_id": 19,
+        "subtopic": "C Fundamentals",
+        "subtopic_id": 47,
+        "confidence": 0.6043,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 437,
+      "year": 2024,
+      "question_no": 17,
+      "question_text": "Q.17\nGiven an integer array of size N, we want to check if the array is sorted (in either\nascending or descending order). An algorithm solves this problem by making a\nsingle pass through the array and comparing each element of the array only with its\nadjacent elements. The worst-case time complexity of this algorithm is",
+      "options": [
+        {
+          "key": "A",
+          "text": "both Ο(𝑁) and Ω(𝑁)"
+        },
+        {
+          "key": "B",
+          "text": "Ο(𝑁) but not Ω(𝑁)"
+        },
+        {
+          "key": "C",
+          "text": "Ω(𝑁) but not Ο(𝑁)"
+        },
+        {
+          "key": "D",
+          "text": "neither Ο(𝑁) nor Ω(𝑁)"
+        }
+      ],
+      "predicted": {
+        "subject": "Algorithms",
+        "subject_id": 6,
+        "topic": "Asymptotic Complexity",
+        "topic_id": 30,
+        "subtopic": "Complexity Analysis",
+        "subtopic_id": 63,
+        "confidence": 0.621,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 479,
+      "year": 2024,
+      "question_no": 59,
+      "question_text": "Q.59\nLet 𝐺 = (𝑉, Σ, 𝑆, 𝑃) be a context-free grammar in Chomsky Normal Form with\nΣ = {𝑎, 𝑏, 𝑐} and 𝑉 containing 10 variable symbols including the start\nsymbol 𝑆. The string 𝑤 = 𝑎30𝑏30𝑐30 is derivable from 𝑆. The number of steps\n(application of rules) in the derivation 𝑆→∗𝑤 is _________",
+      "options": null,
+      "predicted": {
+        "subject": "Theory of Computation",
+        "subject_id": 7,
+        "topic": "Context-Free Grammars and Pushdown Automata",
+        "topic_id": 38,
+        "subtopic": "Context-Free Grammars",
+        "subtopic_id": 75,
+        "confidence": 0.7303,
+        "review_status": "auto_accepted"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 446,
+      "year": 2024,
+      "question_no": 26,
+      "question_text": "Q.26\nWhich of the following is/are Bottom-Up Parser(s)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Shift-reduce Parser"
+        },
+        {
+          "key": "B",
+          "text": "Predictive Parser"
+        },
+        {
+          "key": "C",
+          "text": "LL(1) Parser"
+        },
+        {
+          "key": "D",
+          "text": "LR Parser"
+        }
+      ],
+      "predicted": {
+        "subject": "Compiler Design",
+        "subject_id": 8,
+        "topic": "Parsing",
+        "topic_id": 42,
+        "subtopic": "Bottom-Up Parsing",
+        "subtopic_id": 82,
+        "confidence": 0.3663,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 444,
+      "year": 2024,
+      "question_no": 24,
+      "question_text": "Q.24\nWhich of the following statements about threads is/are TRUE?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Threads can only be implemented in kernel space"
+        },
+        {
+          "key": "B",
+          "text": "Each thread has its own file descriptor table for open files"
+        },
+        {
+          "key": "C",
+          "text": "All the threads belonging to a process share a common stack"
+        },
+        {
+          "key": "D",
+          "text": "Threads belonging to a process are by default not protected from each other"
+        }
+      ],
+      "predicted": {
+        "subject": "Operating Systems",
+        "subject_id": 9,
+        "topic": "Threads and IPC",
+        "topic_id": 49,
+        "subtopic": "Threads",
+        "subtopic_id": 90,
+        "confidence": 0.5903,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 441,
+      "year": 2024,
+      "question_no": 21,
+      "question_text": "Q.21\nIn a B+ tree, the requirement of at least half-full (50%) node occupancy is relaxed\nfor which one of the following cases?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Only the root node"
+        },
+        {
+          "key": "B",
+          "text": "All leaf nodes"
+        },
+        {
+          "key": "C",
+          "text": "All internal nodes"
+        },
+        {
+          "key": "D",
+          "text": "Only the leftmost leaf node"
+        }
+      ],
+      "predicted": {
+        "subject": "Databases",
+        "subject_id": 10,
+        "topic": "File Organization and Indexing",
+        "topic_id": 60,
+        "subtopic": "B and B+ Trees",
+        "subtopic_id": 111,
+        "confidence": 0.7257,
+        "review_status": "auto_accepted"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 436,
+      "year": 2024,
+      "question_no": 16,
+      "question_text": "Q.16\nA user starts browsing a webpage hosted at a remote server. The browser opens a\nsingle TCP connection to fetch the entire webpage from the server. The webpage\nconsists of a top-level index page with multiple embedded image objects. Assume\nthat all caches (e.g., DNS cache, browser cache) are all initially empty. The\nfollowing packets leave the user's computer in some order.\n(i)\nHTTP GET request for the index page\n(ii)\nDNS request to resolve the web server's name to its IP address\n(iii)\nHTTP GET request for an image object\n(iv)\nTCP SYN to open a connection to the web server\nWhich one of the following is the CORRECT chronological order (earliest in time\nto latest) of the packets leaving the computer ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(iv), (ii), (iii), (i)"
+        },
+        {
+          "key": "B",
+          "text": "(ii), (iv), (iii), (i)"
+        },
+        {
+          "key": "C",
+          "text": "(ii), (iv), (i), (iii)"
+        },
+        {
+          "key": "D",
+          "text": "(iv), (ii), (i), (iii)"
+        }
+      ],
+      "predicted": {
+        "subject": "Computer Networks",
+        "subject_id": 11,
+        "topic": "Application Layer",
+        "topic_id": 69,
+        "subtopic": "HTTP",
+        "subtopic_id": 133,
+        "confidence": 0.4629,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 443,
+      "year": 2024,
+      "question_no": 23,
+      "question_text": "Q.23\nLet 𝐿1, 𝐿2 be two regular languages and 𝐿3 a language which is not regular.\nWhich of the following statements is/are always TRUE?",
+      "options": [
+        {
+          "key": "A",
+          "text": "𝐿1 = 𝐿2 if and only if 𝐿1 ∩ 𝐿2̅̅̅ = 𝜙"
+        },
+        {
+          "key": "B",
+          "text": "𝐿1 ∪𝐿3 is not regular"
+        },
+        {
+          "key": "C",
+          "text": "𝐿3̅̅̅ is not regular"
+        },
+        {
+          "key": "D",
+          "text": "𝐿1̅̅̅ ∪𝐿2̅̅̅ is regular"
+        }
+      ],
+      "predicted": {
+        "subject": null,
+        "subject_id": null,
+        "topic": null,
+        "topic_id": null,
+        "subtopic": null,
+        "subtopic_id": null,
+        "confidence": 0.0,
+        "review_status": "out_of_syllabus"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 483,
+      "year": 2024,
+      "question_no": 63,
+      "question_text": "Q.63\nA bag contains 10 red balls and 15 blue balls. Two balls are drawn randomly without\nreplacement. Given that the first ball drawn is red, the probability (rounded off to 3\ndecimal places) that both balls drawn are red is _________",
+      "options": null,
+      "predicted": {
+        "subject": "General Aptitude",
+        "subject_id": 1,
+        "topic": "Quantitative Aptitude",
+        "topic_id": 2,
+        "subtopic": "Elementary Statistics and Probability",
+        "subtopic_id": 7,
+        "confidence": 0.3748,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 432,
+      "year": 2024,
+      "question_no": 12,
+      "question_text": "Q.12\nThe product of all eigenvalues of the matrix [\n] is",
+      "options": [
+        {
+          "key": "A",
+          "text": "−1"
+        }
+      ],
+      "predicted": {
+        "subject": "Engineering Mathematics",
+        "subject_id": 2,
+        "topic": "Linear Algebra",
+        "topic_id": 6,
+        "subtopic": "Matrices and Determinants",
+        "subtopic_id": 18,
+        "confidence": 0.2299,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 440,
+      "year": 2024,
+      "question_no": 20,
+      "question_text": "Q.20\nLet S be the specification: \"Instructors teach courses. Students register for courses.\nCourses are allocated classrooms. Instructors guide students.\" Which one of the\nfollowing ER diagrams CORRECTLY represents S?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(i)"
+        },
+        {
+          "key": "B",
+          "text": "(ii)"
+        },
+        {
+          "key": "C",
+          "text": "(iii)"
+        },
+        {
+          "key": "D",
+          "text": "(iv)"
+        }
+      ],
+      "predicted": {
+        "subject": "Digital Logic",
+        "subject_id": 3,
+        "topic": "Sequential Circuits",
+        "topic_id": 11,
+        "subtopic": "Registers and Counters",
+        "subtopic_id": 34,
+        "confidence": 0.2512,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 450,
+      "year": 2024,
+      "question_no": 30,
+      "question_text": "Q.30\nConsider a 5-stage pipelined processor with Instruction Fetch (IF), Instruction\nDecode (ID), Execute (EX), Memory Access (MEM), and Register Writeback (WB)\nstages. Which of the following statements about forwarding is/are CORRECT?\nIn a pipelined execution, forwarding means the result from a source stage of an",
+      "options": [
+        {
+          "key": "A",
+          "text": "earlier instruction is passed on to the destination stage of a later instruction\nIn forwarding, data from the output of the MEM stage can be passed on to the"
+        },
+        {
+          "key": "B",
+          "text": "input of the EX stage of the next instruction"
+        },
+        {
+          "key": "C",
+          "text": "Forwarding cannot prevent all pipeline stalls\nForwarding does not require any extra hardware to retrieve the data from the"
+        },
+        {
+          "key": "D",
+          "text": "pipeline stages"
+        }
+      ],
+      "predicted": {
+        "subject": "Computer Organization and Architecture",
+        "subject_id": 4,
+        "topic": "Pipelining and Hazards",
+        "topic_id": 18,
+        "subtopic": "Pipeline Hazards",
+        "subtopic_id": 46,
+        "confidence": 0.2424,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 439,
+      "year": 2024,
+      "question_no": 19,
+      "question_text": "Q.19\nConsider the following C program:\n#include <stdio.h>\nvoid fX(){\nvoid fX();\nchar a;\nint main(){\nif((a=getchar()) != '\\n')\nfX();\nfX();\nreturn 0;}\nif(a != '\\n')\nputchar(a);}\nAssume that the input to the program from the command line is 1234 followed by\na newline character. Which one of the following statements is CORRECT?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The program will not terminate"
+        },
+        {
+          "key": "B",
+          "text": "The program will terminate with no output\nThe program will terminate with 4321 as output"
+        },
+        {
+          "key": "C",
+          "text": "The program will terminate with 1234 as output"
+        }
+      ],
+      "predicted": {
+        "subject": "Programming and Data Structures",
+        "subject_id": 5,
+        "topic": "Programming in C",
+        "topic_id": 19,
+        "subtopic": "C Fundamentals",
+        "subtopic_id": 47,
+        "confidence": 0.5159,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 465,
+      "year": 2024,
+      "question_no": 45,
+      "question_text": "Q.45\nLet 𝐺 be a directed graph and 𝑇 a depth first search (DFS) spanning tree in 𝐺 that\nis rooted at a vertex 𝑣. Suppose 𝑇 is also a breadth first search (BFS) tree in 𝐺,\nrooted at 𝑣. Which of the following statements is/are TRUE for every such graph 𝐺\nand tree 𝑇 ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "There are no back-edges in 𝐺 with respect to the tree 𝑇"
+        },
+        {
+          "key": "B",
+          "text": "There are no cross-edges in 𝐺 with respect to the tree 𝑇"
+        },
+        {
+          "key": "C",
+          "text": "There are no forward-edges in 𝐺 with respect to the tree 𝑇"
+        },
+        {
+          "key": "D",
+          "text": "The only edges in 𝐺 are the edges in 𝑇"
+        }
+      ],
+      "predicted": {
+        "subject": "Algorithms",
+        "subject_id": 6,
+        "topic": "Graph Traversals",
+        "topic_id": 34,
+        "subtopic": "BFS and DFS",
+        "subtopic_id": 68,
+        "confidence": 0.9114,
+        "review_status": "auto_accepted"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 481,
+      "year": 2024,
+      "question_no": 61,
+      "question_text": "Q.61\nConsider the following two regular expressions over the alphabet {0,1}:\n𝑟= 0∗+ 1∗\n𝑠= 01∗+ 10∗\nThe total number of strings of length less than or equal to 5, which are\nneither in 𝑟 nor in 𝑠, is _________",
+      "options": null,
+      "predicted": {
+        "subject": "Theory of Computation",
+        "subject_id": 7,
+        "topic": "Regular Expressions and Finite Automata",
+        "topic_id": 37,
+        "subtopic": "Regular Expressions",
+        "subtopic_id": 74,
+        "confidence": 0.4117,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 458,
+      "year": 2024,
+      "question_no": 38,
+      "question_text": "Q.38\nConsider the following grammar 𝐺, with 𝑆 as the start symbol. The grammar 𝐺 has\nthree incomplete productions denoted by (1), (2), and (3).\n𝑆→𝑑𝑎𝑇 | (1)\n𝑇→𝑎𝑆 | 𝑏𝑇 | (2)\n𝑅→ (3) | 𝜖\nThe set of terminals is {𝑎, 𝑏, 𝑐, 𝑑, 𝑓}. The FIRST and FOLLOW sets of the different\nnon-terminals are as follows.\nFIRST(𝑆) = {𝑐, 𝑑, 𝑓}, FIRST(𝑇) = {𝑎, 𝑏, 𝜖}, FIRST(𝑅) = {𝑐, 𝜖}\nFOLLOW(𝑆) = FOLLOW(𝑇) = {𝑐, 𝑓, $}, FOLLOW(𝑅) = {𝑓}\nWhich one of the following options CORRECTLY fills in the incomplete\nproductions?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(1) 𝑆→𝑅𝑓 (2) 𝑇→𝜖 (3) 𝑅→𝑐𝑇𝑅"
+        },
+        {
+          "key": "B",
+          "text": "(1) 𝑆→𝑓𝑅 (2) 𝑇→𝜖 (3) 𝑅→𝑐𝑇𝑅"
+        },
+        {
+          "key": "C",
+          "text": "(1) 𝑆→𝑓𝑅 (2) 𝑇→𝑐𝑇 (3) 𝑅→𝑐𝑅"
+        },
+        {
+          "key": "D",
+          "text": "(1) 𝑆→𝑅𝑓 (2) 𝑇→𝑐𝑇 (3) 𝑅→𝑐𝑅"
+        }
+      ],
+      "predicted": {
+        "subject": "Compiler Design",
+        "subject_id": 8,
+        "topic": "Parsing",
+        "topic_id": 42,
+        "subtopic": "Top-Down Parsing",
+        "subtopic_id": 81,
+        "confidence": 0.3919,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 445,
+      "year": 2024,
+      "question_no": 25,
+      "question_text": "Q.25\nWhich of the following process state transitions is/are NOT possible?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Running to Ready"
+        },
+        {
+          "key": "B",
+          "text": "Waiting to Running"
+        },
+        {
+          "key": "C",
+          "text": "Ready to Waiting"
+        },
+        {
+          "key": "D",
+          "text": "Running to Terminated"
+        }
+      ],
+      "predicted": {
+        "subject": "Operating Systems",
+        "subject_id": 9,
+        "topic": "System Calls and Processes",
+        "topic_id": 48,
+        "subtopic": "Processes and System Calls",
+        "subtopic_id": 89,
+        "confidence": 0.4045,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 442,
+      "year": 2024,
+      "question_no": 22,
+      "question_text": "Q.22\nWhich of the following statements about a relation R in first normal form (1NF)\nis/are TRUE ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "R can have a multi-attribute key"
+        },
+        {
+          "key": "B",
+          "text": "R cannot have a foreign key"
+        },
+        {
+          "key": "C",
+          "text": "R cannot have a composite attribute"
+        },
+        {
+          "key": "D",
+          "text": "R cannot have more than one candidate key"
+        }
+      ],
+      "predicted": {
+        "subject": "Databases",
+        "subject_id": 10,
+        "topic": "Integrity Constraints and Normal Forms",
+        "topic_id": 59,
+        "subtopic": "Functional Dependencies",
+        "subtopic_id": 109,
+        "confidence": 0.4217,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 449,
+      "year": 2024,
+      "question_no": 29,
+      "question_text": "Q.29\nTCP client P successfully establishes a connection to TCP server Q. Let 𝑁𝑃 denote\nthe sequence number in the SYN sent from P to Q. Let 𝑁𝑄 denote the\nacknowledgement number in the SYN ACK from Q to P. Which of the following\nstatements is/are CORRECT?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The sequence number 𝑁𝑃 is chosen randomly by P"
+        },
+        {
+          "key": "B",
+          "text": "The sequence number 𝑁𝑃 is always 0 for a new connection\nThe acknowledgement number 𝑁𝑄 is equal to 𝑁𝑃"
+        },
+        {
+          "key": "C",
+          "text": "The acknowledgement number 𝑁𝑄 is equal to 𝑁𝑃+ 1"
+        }
+      ],
+      "predicted": {
+        "subject": "Computer Networks",
+        "subject_id": 11,
+        "topic": "TCP",
+        "topic_id": 67,
+        "subtopic": "TCP Fundamentals",
+        "subtopic_id": 127,
+        "confidence": 0.6936,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 457,
+      "year": 2024,
+      "question_no": 37,
+      "question_text": "Q.37\nConsider the following syntax-directed definition (SDD).\n𝑆→𝐷𝐻𝑇𝑈\n{ 𝑆. 𝑣𝑎𝑙 = 𝐷. 𝑣𝑎𝑙 + 𝐻. 𝑣𝑎𝑙 + 𝑇. 𝑣𝑎𝑙 + 𝑈. 𝑣𝑎𝑙; }\n𝐷→\"M\"𝐷1\n{ 𝐷. 𝑣𝑎𝑙 = 5 + 𝐷1. 𝑣𝑎𝑙; }\n𝐷→𝜖\n{ 𝐷. 𝑣𝑎𝑙 = −5; }\n𝐻→\"L\"𝐻1\n{ 𝐻. 𝑣𝑎𝑙 = 5 ∗10 + 𝐻1. 𝑣𝑎𝑙; }\n𝐻→𝜖\n{ 𝐻. 𝑣𝑎𝑙 = −10; }\n𝑇→\"C\"𝑇1\n{ 𝑇. 𝑣𝑎𝑙 = 5 ∗100 + 𝑇1. 𝑣𝑎𝑙; }\n𝑇→𝜖\n{ 𝑇. 𝑣𝑎𝑙 = −5; }\n𝑈→\"K\"\n{ 𝑈. 𝑣𝑎𝑙 = 5; }\nGiven \"MMLK\" as the input, which one of the following options is the CORRECT\nvalue computed by the SDD (in the attribute 𝑆. 𝑣𝑎𝑙)?",
+      "options": null,
+      "predicted": {
+        "subject": null,
+        "subject_id": null,
+        "topic": null,
+        "topic_id": null,
+        "subtopic": null,
+        "subtopic_id": null,
+        "confidence": 0.0,
+        "review_status": "out_of_syllabus"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 452,
+      "year": 2024,
+      "question_no": 32,
+      "question_text": "Q.32\nLet 𝐴 and 𝐵 be non-empty finite sets such that there exist one-to-one and onto\nfunctions (i) from 𝐴 to 𝐵 and (ii) from 𝐴× 𝐴 to 𝐴∪𝐵. The number of possible\nvalues of |𝐴| is __________",
+      "options": null,
+      "predicted": {
+        "subject": "Engineering Mathematics",
+        "subject_id": 2,
+        "topic": "Discrete Mathematics",
+        "topic_id": 5,
+        "subtopic": "Sets, Relations and Functions",
+        "subtopic_id": 13,
+        "confidence": 0.4129,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 467,
+      "year": 2024,
+      "question_no": 47,
+      "question_text": "Q.47\nConsider a Boolean expression given by 𝐹(𝑋, 𝑌, 𝑍) = ∑(3,5,6,7).\nWhich of the following statements is/are CORRECT?",
+      "options": [
+        {
+          "key": "A",
+          "text": "𝐹(𝑋, 𝑌, 𝑍) = Π(0,1,2,4)"
+        },
+        {
+          "key": "B",
+          "text": "𝐹(𝑋, 𝑌, 𝑍) = 𝑋𝑌+ 𝑌𝑍+ 𝑋𝑍"
+        },
+        {
+          "key": "C",
+          "text": "𝐹(𝑋, 𝑌, 𝑍) is independent of input 𝑌"
+        },
+        {
+          "key": "D",
+          "text": "𝐹(𝑋, 𝑌, 𝑍) is independent of input 𝑋"
+        }
+      ],
+      "predicted": {
+        "subject": "Digital Logic",
+        "subject_id": 3,
+        "topic": "Boolean Algebra and Minimization",
+        "topic_id": 9,
+        "subtopic": "Boolean Algebra",
+        "subtopic_id": 29,
+        "confidence": 0.5421,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 473,
+      "year": 2024,
+      "question_no": 53,
+      "question_text": "Q.53\nConsider two set-associative cache memory architectures: WBC, which uses the\nwrite back policy, and WTC, which uses the write through policy. Both of them use\nthe LRU (Least Recently Used) block replacement policy. The cache memory is\nconnected to the main memory. Which of the following statements is/are TRUE?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A read miss in WBC never evicts a dirty block\nA read miss in WTC never triggers a write back operation of a cache block to"
+        },
+        {
+          "key": "B",
+          "text": "main memory"
+        },
+        {
+          "key": "C",
+          "text": "A write hit in WBC can modify the value of the dirty bit of a cache block\nA write miss in WTC always writes the victim cache block to main memory"
+        },
+        {
+          "key": "D",
+          "text": "before loading the missed block to the cache"
+        }
+      ],
+      "predicted": {
+        "subject": "Computer Organization and Architecture",
+        "subject_id": 4,
+        "topic": "Memory Hierarchy and Interfacing",
+        "topic_id": 16,
+        "subtopic": "Cache Memory",
+        "subtopic_id": 42,
+        "confidence": 0.9321,
+        "review_status": "auto_accepted"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 453,
+      "year": 2024,
+      "question_no": 33,
+      "question_text": "Q.33\nConsider the operator precedence and associativity rules for the integer arithmetic\noperators given in the table below.\nOperator\nPrecedence\nAssociativity\nHighest\nLeft\n+\n−\nHigh\nRight\nMedium\nRight\n∗\nLow\nRight\n/\nThe value of the expression 3 + 1 + 5 ∗2 / 7 + 2 −4 −7 −6 / 2 as per the\nabove rules is __________",
+      "options": null,
+      "predicted": {
+        "subject": "Programming and Data Structures",
+        "subject_id": 5,
+        "topic": "Programming in C",
+        "topic_id": 19,
+        "subtopic": "C Fundamentals",
+        "subtopic_id": 47,
+        "confidence": 0.5303,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 480,
+      "year": 2024,
+      "question_no": 60,
+      "question_text": "Q.60\nThe number of edges present in the forest generated by the DFS traversal of an\nundirected graph 𝐺 with 100 vertices is 40. The number of connected components\nin 𝐺 is _________",
+      "options": null,
+      "predicted": {
+        "subject": "Algorithms",
+        "subject_id": 6,
+        "topic": "Graph Traversals",
+        "topic_id": 34,
+        "subtopic": "BFS and DFS",
+        "subtopic_id": 68,
+        "confidence": 0.5459,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 459,
+      "year": 2024,
+      "question_no": 39,
+      "question_text": "Q.39\nConsider the following pseudo-code.\n𝐿1: 𝑡1 = −1\n𝐿2: 𝑡2 = 0\n𝐿3: 𝑡3 = 0\n𝐿4: 𝑡4 = 4 ∗𝑡3\n𝐿5: 𝑡5 = 4 ∗𝑡2\n𝐿6: 𝑡6 = 𝑡5 ∗𝑀\n𝐿7: 𝑡7 = 𝑡4 + 𝑡6\n𝐿8: 𝑡8 = 𝑎[𝑡7]\n𝐿9: if 𝑡8 <= 𝑚𝑎𝑥 goto 𝐿11\n𝐿10: 𝑡1 = 𝑡8\n𝐿11: 𝑡3 = 𝑡3 + 1\n𝐿12: if 𝑡3 < 𝑀 goto 𝐿4\n𝐿13: 𝑡2 = 𝑡2 + 1\n𝐿14: if 𝑡2 < 𝑁 goto 𝐿3\n𝐿15: 𝑚𝑎𝑥 = 𝑡1\nWhich one of the following options CORRECTLY specifies the number of basic\nblocks and the number of instructions in the largest basic block, respectively ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6 and 6"
+        },
+        {
+          "key": "B",
+          "text": "6 and 7"
+        },
+        {
+          "key": "C",
+          "text": "7 and 7"
+        },
+        {
+          "key": "D",
+          "text": "7 and 6"
+        }
+      ],
+      "predicted": {
+        "subject": "Compiler Design",
+        "subject_id": 8,
+        "topic": "Parsing",
+        "topic_id": 42,
+        "subtopic": "Bottom-Up Parsing",
+        "subtopic_id": 82,
+        "confidence": 0.3908,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 460,
+      "year": 2024,
+      "question_no": 40,
+      "question_text": "Q.40\nConsider the following two threads T1 and T2 that update two shared variables\na and b. Assume that initially a = b = 1. Though context switching between\nthreads can happen at any time, each statement of T1 or T2 is executed atomically\nwithout interruption.\nT1 T2\na = a + 1; b = 2 * b;\nb = b + 1; a = 2 * a;\nWhich one of the following options lists all the possible combinations of values of\na and b after both T1 and T2 finish execution?\n(a = 4, b = 4); (a = 3, b = 3); (a = 4, b = 3)",
+      "options": [
+        {
+          "key": "A",
+          "text": "(a = 3, b = 4); (a = 4, b = 3); (a = 3, b = 3)"
+        },
+        {
+          "key": "B",
+          "text": "(a = 4, b = 4); (a = 4, b = 3); (a = 3, b = 4)"
+        },
+        {
+          "key": "C",
+          "text": "(a = 2, b = 2); (a = 2, b = 3); (a = 3, b = 4)"
+        }
+      ],
+      "predicted": {
+        "subject": "Operating Systems",
+        "subject_id": 9,
+        "topic": "Threads and IPC",
+        "topic_id": 49,
+        "subtopic": "Threads",
+        "subtopic_id": 90,
+        "confidence": 0.4167,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 447,
+      "year": 2024,
+      "question_no": 27,
+      "question_text": "Q.27\nLet 𝐴 and 𝐵 be two events in a probability space with 𝑃(𝐴) = 0.3, 𝑃(𝐵) = 0.5,\nand 𝑃(𝐴∩𝐵) = 0.1. Which of the following statements is/are TRUE?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The two events 𝐴 and 𝐵 are independent"
+        },
+        {
+          "key": "B",
+          "text": "𝑃(𝐴∪𝐵) = 0.7\n𝑃(𝐴∩𝐵𝑐) = 0.2, where 𝐵𝑐 is the complement of the event 𝐵"
+        },
+        {
+          "key": "C",
+          "text": "𝑃(𝐴𝑐∩𝐵𝑐) = 0.4, where 𝐴𝑐 and 𝐵𝑐 are the complements of the events 𝐴 and 𝐵,"
+        },
+        {
+          "key": "D",
+          "text": "respectively"
+        }
+      ],
+      "predicted": {
+        "subject": "Databases",
+        "subject_id": 10,
+        "topic": "SQL",
+        "topic_id": 58,
+        "subtopic": "SQL Queries",
+        "subtopic_id": 107,
+        "confidence": 0.2031,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 451,
+      "year": 2024,
+      "question_no": 31,
+      "question_text": "Q.31\nWhich of the following fields is/are modified in the IP header of a packet going out\nof a network address translation (NAT) device from an internal network to an\nexternal network?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Source IP"
+        },
+        {
+          "key": "B",
+          "text": "Destination IP"
+        },
+        {
+          "key": "C",
+          "text": "Header Checksum"
+        },
+        {
+          "key": "D",
+          "text": "Total Length"
+        }
+      ],
+      "predicted": {
+        "subject": "Computer Networks",
+        "subject_id": 11,
+        "topic": "IPv4",
+        "topic_id": 66,
+        "subtopic": "NAT and Supporting Protocols",
+        "subtopic_id": 126,
+        "confidence": 0.4697,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 472,
+      "year": 2024,
+      "question_no": 52,
+      "question_text": "Q.52\nConsider the operators ◊ and □ defined by 𝑎◊𝑏= 𝑎+ 2𝑏, 𝑎□𝑏= 𝑎𝑏, for positive\nintegers. Which of the following statements is/are TRUE?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Operator ◊ obeys the associative law"
+        },
+        {
+          "key": "B",
+          "text": "Operator □ obeys the associative law"
+        },
+        {
+          "key": "C",
+          "text": "Operator ◊ over the operator □ obeys the distributive law"
+        },
+        {
+          "key": "D",
+          "text": "Operator □ over the operator ◊ obeys the distributive law"
+        }
+      ],
+      "predicted": {
+        "subject": null,
+        "subject_id": null,
+        "topic": null,
+        "topic_id": null,
+        "subtopic": null,
+        "subtopic_id": null,
+        "confidence": 0.0,
+        "review_status": "out_of_syllabus"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 454,
+      "year": 2024,
+      "question_no": 34,
+      "question_text": "Q.34\nThe number of spanning trees in a complete graph of 4 vertices labelled A, B, C,\nand D is _________",
+      "options": null,
+      "predicted": {
+        "subject": "Engineering Mathematics",
+        "subject_id": 2,
+        "topic": "Discrete Mathematics",
+        "topic_id": 5,
+        "subtopic": "Graph Theory",
+        "subtopic_id": 16,
+        "confidence": 0.3096,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 476,
+      "year": 2024,
+      "question_no": 56,
+      "question_text": "Q.56\nA given program has 25% load/store instructions. Suppose the ideal CPI (cycles per\ninstruction) without any memory stalls is 2. The program exhibits 2% miss rate on\ninstruction cache and 8% miss rate on data cache. The miss penalty is 100 cycles.\nThe speedup (rounded off to two decimal places) achieved with a perfect cache (i.e.,\nwith NO data or instruction cache misses) is _________",
+      "options": null,
+      "predicted": {
+        "subject": "Computer Organization and Architecture",
+        "subject_id": 4,
+        "topic": "Pipelining and Hazards",
+        "topic_id": 18,
+        "subtopic": "Pipeline Performance",
+        "subtopic_id": 45,
+        "confidence": 0.5424,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 461,
+      "year": 2024,
+      "question_no": 41,
+      "question_text": "Q.41\nAn array [82, 101, 90, 11, 111, 75, 33, 131, 44, 93] is heapified. Which one of the\nfollowing options represents the first three elements in the heapified array?",
+      "options": [
+        {
+          "key": "A",
+          "text": "82, 90, 101"
+        },
+        {
+          "key": "B",
+          "text": "82, 11, 93"
+        },
+        {
+          "key": "C",
+          "text": "131, 11, 93"
+        },
+        {
+          "key": "D",
+          "text": "131, 111, 90"
+        }
+      ],
+      "predicted": {
+        "subject": "Programming and Data Structures",
+        "subject_id": 5,
+        "topic": "Arrays and Strings",
+        "topic_id": 21,
+        "subtopic": "Arrays and Storage",
+        "subtopic_id": 51,
+        "confidence": 0.392,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 477,
+      "year": 2024,
+      "question_no": 57,
+      "question_text": "Q.57\nConsider the following code snippet using the fork() and wait() system calls.\nAssume that the code compiles and runs correctly, and that the system calls run\nsuccessfully without any errors.\nint x = 3;\nwhile(x > 0) {\nfork();\nprintf(\"hello\");\nwait(NULL);\nx--;\n}\nThe total number of times the printf statement is executed is _______",
+      "options": null,
+      "predicted": {
+        "subject": "Operating Systems",
+        "subject_id": 9,
+        "topic": "System Calls and Processes",
+        "topic_id": 48,
+        "subtopic": "Processes and System Calls",
+        "subtopic_id": 89,
+        "confidence": 0.5563,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 448,
+      "year": 2024,
+      "question_no": 28,
+      "question_text": "Q.28\nConsider the circuit shown below where the gates may have propagation delays.\nAssume that all signal transitions occur instantaneously and that wires have no\ndelays. Which of the following statements about the circuit is/are CORRECT?",
+      "options": [
+        {
+          "key": "A",
+          "text": "With no propagation delays, the output 𝒀 is always logic Zero"
+        },
+        {
+          "key": "B",
+          "text": "With no propagation delays, the output 𝒀 is always logic One\nWith propagation delays, the output 𝒀 can have a transient logic One after 𝑿"
+        },
+        {
+          "key": "C",
+          "text": "transitions from logic Zero to logic One\nWith propagation delays, the output 𝒀 can have a transient logic Zero after 𝑿"
+        },
+        {
+          "key": "D",
+          "text": "transitions from logic One to logic Zero"
+        }
+      ],
+      "predicted": {
+        "subject": "Databases",
+        "subject_id": 10,
+        "topic": "SQL",
+        "topic_id": 58,
+        "subtopic": "SQL Queries",
+        "subtopic_id": 107,
+        "confidence": 0.2096,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    },
+    {
+      "question_id": 456,
+      "year": 2024,
+      "question_no": 36,
+      "question_text": "Q.36\nsends a file of size 106 bytes to R via this path by splitting the file into chunks of\n103 bytes each. Node P sends these chunks one after the other without any wait time\nbetween the successive chunk transmissions. Assume that the size of extra headers\nadded to these chunks is negligible, and that the chunk size is less than the MTU.\nEach of the links P—Q and Q—R has a bandwidth of 106 bits/sec, and negligible\npropagation latency. Router Q immediately transmits every packet it receives from\nP to R, with negligible processing and queueing delays. Router Q can\nsimultaneously receive on link P—Q and transmit on link Q—R.\nAssume P starts transmitting the chunks at time 𝑡= 0.\nWhich one of the following options gives the time (in seconds, rounded off to 3\ndecimal places) at which R receives all the chunks of the file?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8.000"
+        },
+        {
+          "key": "B",
+          "text": "8.008"
+        },
+        {
+          "key": "C",
+          "text": "15.992"
+        },
+        {
+          "key": "D",
+          "text": "16.000"
+        }
+      ],
+      "predicted": {
+        "subject": "Computer Networks",
+        "subject_id": 11,
+        "topic": "Switching and Performance Metrics",
+        "topic_id": 63,
+        "subtopic": "Network Performance",
+        "subtopic_id": 118,
+        "confidence": 0.4021,
+        "review_status": "pending"
+      },
+      "ground_truth": {
+        "subject_id": null,
+        "topic_id": null,
+        "subtopic_id": null,
+        "concept_ids": [],
+        "label_source": "unreviewed",
+        "reviewer": null,
+        "notes": ""
+      }
+    }
+  ]
+}
